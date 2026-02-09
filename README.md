@@ -1,4 +1,4 @@
-#Online retail ETL pipeline
+# Online retail ETL pipeline
 
 This project implements an Extract->Transform->Load pipeline in python for online retail transactions transforming transactional retail data into clean, analytics-ready customer-level features, simulating a real-world data engineering workflow.
 
